@@ -21,11 +21,3 @@ A simple and responsive To-Do List app built with **React** and **Vite**, allowi
 - React Icons
 
 ## 📦 Getting Started
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/Debraj245/To-Do-list.git
-cd To-Do-list
-npm install
-npm run dev
